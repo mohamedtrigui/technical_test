@@ -1,0 +1,6 @@
+peppermint.usermanagementapp
+peppermint.usermanagementapp.controllers
+peppermint.usermanagementapp.dao
+peppermint.usermanagementapp.entities
+peppermint.usermanagementapp.log
+peppermint.usermanagementapp.services
